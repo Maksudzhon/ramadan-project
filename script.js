@@ -190,7 +190,7 @@ const prophetStories = [
     }
 ];
 
-const RAMADAN_START_2026 = new Date('2026-02-19T00:00:00');
+const RAMADAN_START_2026 = new Date('2026-02-18T00:00:00');
 
 let currentLanguage = localStorage.getItem('language') || 'uz-Latn';
 let currentCity = localStorage.getItem('city') || 'Toshkent';
